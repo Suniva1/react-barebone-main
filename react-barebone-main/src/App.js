@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-		<p>Hi Mehul!</p>
+		<p>Hi Suniv!</p>
 	</>
   );
 }

@@ -1,4 +1,4 @@
-# Mehul's Bare React App
+# Suniv's Bare React App
 
 Use this mainly for initialising bare react app.
 
